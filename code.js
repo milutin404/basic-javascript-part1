@@ -27,6 +27,9 @@ var changePlaces = function () {
 
 };
 
+/**
+ * Sorting array by using same logic like in changingPlaces
+ */
 var sortArray = function () {
     var array = [5, 7, 3, 1, 4];
     var temp;
